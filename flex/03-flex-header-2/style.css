@@ -2,10 +2,6 @@
 you'll learn about it later. */
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400;1,900&display=swap');
 
-* {
-  border: 1px solid black;
-}
-
 body {
   margin: 0;
   background: #eee;
@@ -30,6 +26,7 @@ body {
   border-radius: 50%;
   width: 48px;
   height:  48px;
+  margin-left: 16px;
 }
 
 .logo {
@@ -37,6 +34,7 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
+  margin-right: 16px; 
 }
 
 .links {
