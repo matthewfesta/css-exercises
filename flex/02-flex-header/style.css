@@ -6,6 +6,7 @@
   font-family: monospace;
   background: papayawhip;
   width: 100%;
+
 }
 
 .logo {
@@ -23,7 +24,9 @@ ul {
   display: flex;
   justify-content: space-around;
   gap: 10px;
-  padding-inline-start: 0%; 
+  padding-inline-start: 0%;
+  padding-left: 10px;
+  padding-right: 10px; 
 }
 
 a {
